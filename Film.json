@@ -19,8 +19,8 @@
       "Personnage": "Walter Nelson (voix)"
         }
        ]
-}
-    ],[
+},
+    
     {
       "Titre": "oui",
       "directeur": "directeur",
@@ -40,4 +40,6 @@
       "Personnage": "Walteadfdar Nelson (voix)"
         }
        ]
-    }]
+    }
+  ]
+}
